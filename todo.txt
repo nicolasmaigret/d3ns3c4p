@@ -1,0 +1,7 @@
+// + development of densecap in OF
+// + ability to change fonts and boxes decoration
+// + choose low frame-speed + manual trigger next capture
+// + reveal the boxes/zones one by one (timebased)
+// + Option to crop + fullscreen for each box ?
+// + render text only as a PROMPTER on an external screen
+// + Option : show the complex shape/outline that has been identified ?
